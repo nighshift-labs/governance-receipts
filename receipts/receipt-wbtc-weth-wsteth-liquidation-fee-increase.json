@@ -1,0 +1,36 @@
+{
+  "fetched_at": "2026-08-24T10:11:23Z",
+  "proposal": {
+    "body": {
+      "characters": 6908,
+      "sha256": "f8b16a27e335bc051328dcb36987191082062c6a21dd36c84522e732110e529e"
+    },
+    "choices": [
+      "For",
+      "Against",
+      "Abstain"
+    ],
+    "end": "2026-08-23T18:54:46Z",
+    "id": "0xbc1c59336255d276088fa85f95ef7122d9d8a56940299093f3246b7db897b6a6",
+    "scores": [
+      372197.4051370457,
+      0,
+      2.466855663034708
+    ],
+    "scores_total": 372199.87199270877,
+    "snapshot_block": 25791075,
+    "space": {
+      "id": "aavedao.eth",
+      "name": "Aave DAO"
+    },
+    "start": "2026-08-20T18:54:46Z",
+    "state": "closed",
+    "title": "[ARFC] Liquidation Protocol Fee Increase for WBTC, WETH, and wstETH on Aave V3 Ethereum Core",
+    "votes": 68
+  },
+  "schema_version": 1,
+  "source": {
+    "api": "https://hub.snapshot.org/graphql",
+    "proposal_url": "https://snapshot.box/#/aavedao.eth/proposal/0xbc1c59336255d276088fa85f95ef7122d9d8a56940299093f3246b7db897b6a6"
+  }
+}
