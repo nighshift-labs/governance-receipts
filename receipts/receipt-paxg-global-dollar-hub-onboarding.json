@@ -1,0 +1,36 @@
+{
+  "fetched_at": "2026-08-24T10:14:51Z",
+  "proposal": {
+    "body": {
+      "characters": 4897,
+      "sha256": "1ffb57fa6923a43af9f61c848708a4529b2d565a8a678e407eb554e84a2d9f21"
+    },
+    "choices": [
+      "For",
+      "Against",
+      "Abstain"
+    ],
+    "end": "2026-08-23T16:13:16Z",
+    "id": "0x65be5cb5922bc73d14ba16b13d4e7ee5eaae2c6d9518c27b7ab9721fd2f637b1",
+    "scores": [
+      372190.5695923757,
+      0,
+      2.466855663034708
+    ],
+    "scores_total": 372193.03644803877,
+    "snapshot_block": 25790271,
+    "space": {
+      "id": "aavedao.eth",
+      "name": "Aave DAO"
+    },
+    "start": "2026-08-20T16:13:16Z",
+    "state": "closed",
+    "title": "[ARFC] Onboard PAXG to the Global Dollar Hub in Aave V4 Ethereum",
+    "votes": 67
+  },
+  "schema_version": 1,
+  "source": {
+    "api": "https://hub.snapshot.org/graphql",
+    "proposal_url": "https://snapshot.box/#/aavedao.eth/proposal/0x65be5cb5922bc73d14ba16b13d4e7ee5eaae2c6d9518c27b7ab9721fd2f637b1"
+  }
+}
