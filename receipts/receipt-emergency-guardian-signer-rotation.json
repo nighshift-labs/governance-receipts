@@ -1,0 +1,36 @@
+{
+  "fetched_at": "2026-08-24T10:11:33Z",
+  "proposal": {
+    "body": {
+      "characters": 5843,
+      "sha256": "eaba3622dee7558c2eb4af207786627a9efb040c10a9c62122efc791cf77797c"
+    },
+    "choices": [
+      "For",
+      "Against",
+      "Abstain"
+    ],
+    "end": "2026-08-23T17:06:53Z",
+    "id": "0x45ae5193bcc218556da9898bb3b703df1b2887f2deaaaf481a92e6d673358430",
+    "scores": [
+      372199.9351455587,
+      0,
+      1
+    ],
+    "scores_total": 372200.9351455587,
+    "snapshot_block": 25790538,
+    "space": {
+      "id": "aavedao.eth",
+      "name": "Aave DAO"
+    },
+    "start": "2026-08-20T17:06:53Z",
+    "state": "closed",
+    "title": "[ARFC] Aave Governance Emergency Guardian: Signer Rotation",
+    "votes": 81
+  },
+  "schema_version": 1,
+  "source": {
+    "api": "https://hub.snapshot.org/graphql",
+    "proposal_url": "https://snapshot.box/#/aavedao.eth/proposal/0x45ae5193bcc218556da9898bb3b703df1b2887f2deaaaf481a92e6d673358430"
+  }
+}
